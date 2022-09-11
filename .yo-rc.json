@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "cadastro-carros",
+    "libraryId": "c4fb912a-7860-4c7f-b4bd-b61300d885dc",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "CadastroCarros",
+    "solutionShortDescription": "CadastroCarros description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
